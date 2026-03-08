@@ -1,0 +1,45 @@
+name: my_first_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  cached_network_image: ^3.4.1
+  file_picker: ^8.0.0
+  shared_preferences: ^2.2.2
+  cupertino_icons: ^1.0.8
+  sqflite: ^2.4.2
+  path: ^1.9.0
+  dio: ^5.4.0
+  path_provider: ^2.1.2
+  permission_handler: ^11.3.1
+  url_launcher: ^6.3.1
+  shimmer: ^3.0.0
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  change_app_package_name: ^1.1.0
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/icon/
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/yugen_icon.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#1C0A4A"
+  adaptive_icon_foreground: "assets/icon/yugen_icon.png"
