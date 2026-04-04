@@ -1,14 +1,33 @@
-# testwing
+# YugenManga
 
-A new Flutter project.
+YugenManga is a free manga reader that puts you in control — discover, read, and organize your favorite manga with a clean, intuitive experience inspired by Tachiyomi.
 
 ## Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
+- Flutter SDK
+- Android Studio or VS Code with Flutter extension
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
+1. Clone the repository
+     /bash
+     /git clone https://github.com/yourusername/yugenmanga.git
+  
+2. Install dependencies
+     /bash
+     /flutter pub get
+3. Run the app
+     /bash
+     /flutter run
+## Features
+- 📖 Free and open manga reading
+- 🔍 Discover and search manga
+- 📚 Organize your library
+- 🎨 Clean, intuitive UI
+- Inspired by Tachiyomi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+Pull requests are welcome! Feel free to open an issue for bugs or feature suggestions.
+
+## License
+This project is licensed under the MIT License.
