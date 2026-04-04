@@ -9,16 +9,10 @@ YugenManga is a free manga reader that puts you in control — discover, read, a
 - Android Studio or VS Code with Flutter extension
 
 ### Installation
-1. Clone the repository
-     /bash
-     /git clone https://github.com/yourusername/yugenmanga.git
-  
-2. Install dependencies
-     /bash
-     /flutter pub get
-3. Run the app
-     /bash
-     /flutter run
+1. Download the latest APK from the [Releases](../../releases) page
+2. Enable **Install from unknown sources** in your Android settings
+3. Install and enjoy!
+
 ## Features
 - 📖 Free and open manga reading
 - 🔍 Discover and search manga
