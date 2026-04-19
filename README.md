@@ -1,6 +1,6 @@
 # 🎭 YugenManga
 
-YugenManga is a high-performance, offline-first manga reader for Android. Built with a modern **'Manga-Noir'** aesthetic, it provides a premium reading experience inspired by Tachiyomi, featuring glassmorphism UI elements and deep customization.
+YugenManga is a high-performance, offline-online manga reader for Android. Built with a modern **'Manga-Noir'** aesthetic, it provides a premium reading experience inspired by Tachiyomi, featuring glassmorphism UI elements and deep customization.
 
 ## Getting Started
 
