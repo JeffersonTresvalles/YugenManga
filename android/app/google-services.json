@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "52845022434",
+    "project_id": "yugenmanga-1f805",
+    "storage_bucket": "yugenmanga-1f805.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52845022434:android:c7e60d9505b1c2939922bb",
+        "android_client_info": {
+          "package_name": "com.jepoydev.yugenmanga_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52845022434-ee78krpu0c5672g7b2mdis5lqhgssfsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jepoydev.yugenmanga_app",
+            "certificate_hash": "04c35ee0fe080ba872de9ee7c111abe35c0e1961"
+          }
+        },
+        {
+          "client_id": "52845022434-8guv4jo1ru3p9otif6racd5n2diikjsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAywbqy1JdRmf2ecpMGLvJVPSR66fi31so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52845022434-8guv4jo1ru3p9otif6racd5n2diikjsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
